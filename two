@@ -1,0 +1,9 @@
+program
+    int a, bb;
+    int ccc;
+
+    begin
+        read(a);
+        read(bb,ccc);
+        write(a,bb,ccc);
+    end.

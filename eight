@@ -1,0 +1,7 @@
+program
+    int myint;
+  begin
+    myint := 7;
+    myint := 3;
+    write( myint, myint *(4+myint)/15 );
+  end.

@@ -1,0 +1,16 @@
+program
+    int one;
+    int two;
+  begin
+    read(one,two);
+    if(one < 5)
+      begin
+        one := one + 2;
+        write(one);
+      end
+    else
+      begin
+        one := one -2;
+        write(one);
+      end
+  end.
